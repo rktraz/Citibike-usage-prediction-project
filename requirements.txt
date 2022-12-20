@@ -1,0 +1,12 @@
+Pandas
+numpy
+xgboost
+python-dotenv
+hsfs[python]
+hopsworks
+nbconvert
+scikit-learn
+plotly
+seaborn
+joblib==1.1.0
+streamlit
